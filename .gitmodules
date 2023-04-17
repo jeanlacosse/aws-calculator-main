@@ -1,0 +1,9 @@
+[submodule "aws-calculator-client"]
+	path = aws-calculator-client
+	url = https://github.com/jeanlacosse/aws-calculator-client
+[submodule "aws-calculator-server"]
+	path = aws-calculator-server
+	url = https://github.com/jeanlacosse/aws-calculator-server.git
+[submodule "update-ip-addresses"]
+	path = update-ip-addresses
+	url = https://github.com/jeanlacosse/updateSecurityGroupIpAddresses.git
